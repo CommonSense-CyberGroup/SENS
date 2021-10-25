@@ -10,7 +10,7 @@ Developers:
 
 Version: 2.0.1
 
-License: Open GNU 3
+License: Open GPL 3
 
 Created Date: 10/25/2021
 Updated Date: 10/25/2021
